@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anant Goel</h1>
 <h3 align="center">I’m a B.Tech Data Science student passionate about turning data into actionable insights. I love exploring machine learning, data analysis, and AI technologies to solve real-world problems.</h3>
+<img align="right" alt="coding" width="500" src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=42995371460484808" height="233" width="236" frameborder="0" scrolling="no" ></iframe>">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anangoel&label=Profile%20views&color=0e75b6&style=flat" alt="anangoel" /> </p>
 
